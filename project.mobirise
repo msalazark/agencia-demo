@@ -33,7 +33,7 @@
       "presetSourceTheme": "mobirise5"
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-01-30_1805",
+    "name": "demo-agencia",
     "versionFirst": "5.6.5",
     "siteFonts": [
       {
@@ -43,6 +43,19 @@
       }
     ],
     "imageResize": true,
+    "chatbutton": {},
+    "google-analytics": "",
+    "global_header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-NGNBV3J');</script>\n<!-- End Google Tag Manager -->",
+    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NGNBV3J\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
+    "favicon": false,
+    "mbrsiteDomain": "uysfmmll7w",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
     "uniqCompNum": 0,
     "versionPublish": "5.6.5"
   },
